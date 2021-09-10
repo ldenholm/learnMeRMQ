@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bgcW0i6F8jC+9Zv9vk1MLW9xRPhy7pNHg/7QJyjo9YcMHGK5KatGaTmKgcaILqc2eOOivXE03gsGXbqlx7VW2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Loki\\Desktop\\Study 2021\\learnMeRMQ\\learnMeRMQ.Producer\\learnMeRMQ.Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Loki\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Loki\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Loki\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Loki\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\Loki\Desktop\Study 2021\learnMeRMQ\learnMeRMQ.Producer\bin\Debug\net5.0\publish\learnMeRMQ.Producer.exe
+C:\Users\Loki\Desktop\Study 2021\learnMeRMQ\learnMeRMQ.Producer\bin\Debug\net5.0\publish\learnMeRMQ.Producer.dll
+C:\Users\Loki\Desktop\Study 2021\learnMeRMQ\learnMeRMQ.Producer\bin\Debug\net5.0\publish\learnMeRMQ.Producer.deps.json
+C:\Users\Loki\Desktop\Study 2021\learnMeRMQ\learnMeRMQ.Producer\bin\Debug\net5.0\publish\learnMeRMQ.Producer.runtimeconfig.json
+C:\Users\Loki\Desktop\Study 2021\learnMeRMQ\learnMeRMQ.Producer\bin\Debug\net5.0\publish\learnMeRMQ.Producer.pdb
+C:\Users\Loki\Desktop\Study 2021\learnMeRMQ\learnMeRMQ.Producer\bin\Debug\net5.0\publish\Newtonsoft.Json.dll
+C:\Users\Loki\Desktop\Study 2021\learnMeRMQ\learnMeRMQ.Producer\bin\Debug\net5.0\publish\RabbitMQ.Client.dll
